@@ -4,11 +4,6 @@
 in this project we will build a Graph object to run algorithms on
 and creating a GUI to intract with the Graph , running some algorithms
 usinig python.
-## Authors
-
-- [@oa1321](https://www.github.com/oa1321) 213101637
-- [@shayperetz6](https://github.com/shayperetz6) 203464870
-
 
 ## The Problem Space
 we have a few problems to solve in our case, most of the problems are conneted to the
